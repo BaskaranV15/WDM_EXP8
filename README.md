@@ -103,7 +103,6 @@ def visualize_product_data(products):
         print('No products to display.')
 visualize_product_data(products)
 
-
 ```
 
 ### Output:
